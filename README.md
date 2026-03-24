@@ -16,7 +16,7 @@ This project analyzes HR data for **1,470 employees** to identify workforce tren
 ---
 
 ###  Major Insights
-***High Attrition Roles:** Laboratory Technicians (62)and Sales Executives (57)have the highest turnover counts.
+* **High Attrition Roles:** Laboratory Technicians (62)and Sales Executives (57)have the highest turnover counts.
 * **Age Group Trends:** Employees aged **26-35** are the most likely to leave, accounting for 116 attrition cases.
 * **Education Factor:** The highest attrition comes from employees with **Life Sciences (38%)** and **Medical (27%)**backgrounds.
 * **Gender Breakdown:** Attrition is significantly higher among **Males (143)** compared to **Females (80)**.
